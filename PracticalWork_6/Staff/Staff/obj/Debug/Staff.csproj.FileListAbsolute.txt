@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\bin\Debug\Staff.exe.config
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\bin\Debug\Staff.exe
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\bin\Debug\Staff.pdb
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\obj\Debug\Staff.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\obj\Debug\Staff.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\obj\Debug\Staff.exe
+C:\VisualStudioProjects\PracticalWork_6\Staff\Staff\obj\Debug\Staff.pdb
